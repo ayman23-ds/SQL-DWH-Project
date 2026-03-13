@@ -59,5 +59,20 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 ## 📂 **Repository Structure**
 
-tree /F
+```
+data-warehouse-project/
+│
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+│
+├── docs/                               # Project documentation and architecture details
+│   ├── star_schema.jpeg                # image schema used on the project
+│   └── data_flow.png                   # image shows the project's architecture
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   └── gold/                           # Scripts for creating analytical models
+│
+└── README.md                           # Project overview and instructions
+```
 
