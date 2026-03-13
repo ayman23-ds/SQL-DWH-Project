@@ -90,3 +90,6 @@ I am currently pursuing a **Master’s degree in Machine Learning and Deep Learn
 
 I am passionate about designing efficient data architectures that enable advanced analytics and intelligent systems.
 
+## Connect With Me
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-ayman-b69219354/)
