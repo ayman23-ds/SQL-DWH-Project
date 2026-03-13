@@ -7,7 +7,7 @@ This project demonstrates a comperhansive DWH and analytics solution,from buildi
 ---
 ## Data Architecture
 
-
+![image alt](https://github.com/ayman23-ds/SQL-DWH-Project/blob/670bbb420c2782b9498faaf8a700d6ef93f90463/figures/data%20flow.png)
 
 
 ## Project Requirements
