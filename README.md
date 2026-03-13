@@ -75,4 +75,18 @@ data-warehouse-project/
 │
 └── README.md                           # Project overview and instructions
 ```
+---
+
+## About Me
+
+I am a **Data Engineer** with a strong interest in building modern data platforms and scalable data pipelines.
+
+I am currently pursuing a **Master’s degree in Machine Learning and Deep Learning at the University of Pavia, Italy**. My academic and technical focus includes:
+
+* Data Engineering & Data Warehousing
+* ETL / ELT Pipelines
+* Big Data Technologies
+* Machine Learning & Deep Learning
+
+I am passionate about designing efficient data architectures that enable advanced analytics and intelligent systems.
 
