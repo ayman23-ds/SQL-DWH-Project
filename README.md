@@ -7,7 +7,7 @@ This project demonstrates a comperhansive DWH and analytics solution,from buildi
 ---
 ## Data Architecture
 
-![image alt]([https://github.com/ayman23-ds/SQL-DWH-Project/blob/670bbb420c2782b9498faaf8a700d6ef93f90463/figures/data%20flow.png](https://github.com/ayman23-ds/SQL-DWH-Project/blob/b61b88bba4a6396399c213bd1701a2529b82a902/docs/data%20flow.png))
+![image alt](https://github.com/ayman23-ds/SQL-DWH-Project/blob/b61b88bba4a6396399c213bd1701a2529b82a902/docs/data%20flow.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
