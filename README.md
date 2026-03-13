@@ -5,6 +5,10 @@ This project demonstrates a comperhansive DWH and analytics solution,from buildi
 
 
 ---
+## Data Architecture
+
+
+
 
 ## Project Requirements
 
